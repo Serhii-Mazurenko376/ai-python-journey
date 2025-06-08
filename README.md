@@ -55,7 +55,7 @@ ai-python-journey/
 Hi, I’m Serhii Mazurenko – a motivated self-learner, transitioning into the world of AI and data science.
 My goal is to become a capable AI engineer, one step at a time.
 
-Feel free to connect on LinkedIn or share resources you think might help!
+Feel free to connect on LinkedIn www.linkedin.com/in/serhii-mazurenko-1361245f or share resources you think might help!
 
 ⸻
 
