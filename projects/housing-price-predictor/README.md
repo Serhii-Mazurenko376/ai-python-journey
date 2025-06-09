@@ -43,10 +43,10 @@ To build a simple regression model that predicts housing prices based on factors
 
 ## 📸 Visual Examples
 
-![Scatter Plot](assets/correlation_matrix.jpeg)  
+![Scatter Plot](assets/correlation_matrix.jpeg)
 *Predicted vs Actual Housing Prices*
 
-![Correlation Matrix](images/correlation_matrix.png)  
+![Correlation Matrix](assets/correlation_matrix.jpeg)
 *Feature Correlation Matrix*
 
 ---
