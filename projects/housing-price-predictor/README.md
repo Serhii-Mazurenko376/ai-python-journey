@@ -2,7 +2,7 @@
 
 Welcome! This is my first beginner AI/ML project using Python to predict housing prices based on various features.
 
-[![Open In Colab](https://colab.research.google.com/github/Serhii-Mazurenko376/ai-pithon-journey/blob/main/projects/housing-price-predictor/housing_model.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg](https://colab.research.google.com/github/Serhii-Mazurenko376/ai-pithon-journey/blob/main/projects/housing-price-predictor/housing_model.ipynb)
 
 ## 📌 Project Goal
 
