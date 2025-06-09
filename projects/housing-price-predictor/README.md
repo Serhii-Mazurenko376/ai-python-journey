@@ -2,6 +2,8 @@
 
 Welcome! This is my first beginner AI/ML project using Python to predict housing prices based on various features.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Serhii-Mazurenko376/housing-price-predictor/blob/main/housing_model.ipynb)
+
 ## 📌 Project Goal
 
 To build a simple regression model that predicts housing prices based on factors such as median income, number of rooms, location coordinates, etc.
