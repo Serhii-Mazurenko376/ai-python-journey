@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Serhii-Mazurenko376/ai-python-journey/blob/main/projects/housing-price-predictor/housing_model.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Serhii-Mazurenko376/ai-python-journey/projects/housing-price-predictor/housing_model.ipynb)
 
 # 🏡 Housing Price Predictor
 
