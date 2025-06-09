@@ -1,35 +1,55 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Serhii-Mazurenko376/ai-python-journey/projects/housing-price-predictor/housing_model.ipynb)
+# 🏡 Housing Price Predictor – ML Project
 
-# 🏡 Housing Price Predictor
+Welcome! This is my first beginner AI/ML project using Python to predict housing prices based on various features.
 
-This is a beginner AI project to predict housing prices using Python and machine learning.
+## 📌 Project Goal
 
----
+To build a simple regression model that predicts housing prices based on factors such as median income, number of rooms, location coordinates, etc.
 
-## 🎯 Goal
+## 🛠️ Tools & Libraries
 
-To build a simple regression model that predicts housing prices based on features like location, size, and number of rooms.
-
----
-
-## 🧰 Tools & Libraries
-
-- Python
-- pandas
-- numpy
-- matplotlib / seaborn
+- Python 3
+- pandas, numpy
+- matplotlib, seaborn
 - scikit-learn
-- Google Colab
+- Jupyter/Google Colab
+
+## 📁 Notebook Structure
+
+1. **Introduction** – Project overview and goals  
+2. **Imports** – Load required libraries  
+3. **Load the Dataset** – California housing dataset  
+4. **Exploratory Data Analysis (EDA)**  
+   - Descriptive statistics  
+   - Correlation matrix  
+   - Visualizations  
+5. **Model Training** – Linear regression using scikit-learn  
+6. **Evaluation** – RMSE, predictions vs actual plot  
+7. **Summary & Learnings**
+
+## 📊 Results
+
+- **RMSE (Root Mean Squared Error):** ~0.75  
+- Good linear correlation between predicted and actual values
+- Strongest predictive feature: **Median Income**
+- Full visual results in the notebook (scatter plot, correlation matrix)
+
+## 🔍 Key Learnings
+
+- Data exploration and visualization
+- Building and evaluating a linear regression model
+- Working with real-world datasets in Colab
+- GitHub project documentation and structure
+
+## 📸 Visual Examples
+
+![Scatter Plot](images/predicted_vs_actual.png)  
+*Predicted vs Actual Housing Prices*
+
+![Correlation Matrix](images/correlation_matrix.png)  
+*Feature Correlation Matrix*
 
 ---
 
-## 📂 Files
-
-- `housing_model.ipynb` – Jupyter notebook with code and explanations
-- `data/` – folder for input CSVs or datasets
-
----
-
-## 🔄 Status
-
-📌 Work in progress – check back for updates!
+👋 Thanks for checking out my first AI journey! More projects coming soon.  
+Feel free to connect on [LinkedIn](https://linkedin.com/in/serhii-mazurenko) 🚀
