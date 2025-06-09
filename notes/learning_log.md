@@ -1,4 +1,4 @@
-# 📚 Learning Log
+# 📘 Learning Log – Serhii Mazurenko
 
 This file tracks what I’ve learned, tried, or struggled with.
 
@@ -18,8 +18,6 @@ This file tracks what I’ve learned, tried, or struggled with.
 ✅ Start notebook for housing price prediction  
 ✅ Learn about pandas DataFrames  
 ✅ Try loading a CSV file in Colab
-
-# 📘 Learning Log – Serhii Mazurenko
 
 ## 🗓️ June 9, 2025 – Completed My First ML Project
 
