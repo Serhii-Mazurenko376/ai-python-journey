@@ -46,7 +46,7 @@ To build a simple regression model that predicts housing prices based on factors
 ![Predicted vs Actual Housing Prices](assets/predicted_vs_actual.jpeg)  
 *Predicted vs Actual Housing Prices*
 
-![Feature Correlation Matrix](assets/correlation_matrix.jpeg)  
+![Feature Correlation Matrix](assets/correlation_matrix.jpeg)
 *Feature Correlation Matrix*
 
 ---
