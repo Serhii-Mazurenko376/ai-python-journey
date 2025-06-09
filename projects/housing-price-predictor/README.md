@@ -52,4 +52,4 @@ To build a simple regression model that predicts housing prices based on factors
 ---
 
 👋 Thanks for checking out my first AI journey! More projects coming soon.  
-Feel free to connect on [LinkedIn](https://linkedin.com/in/serhii-mazurenko) 🚀
+Feel free to connect on [LinkedIn](https://linkedin.com/in/serhii-mazurenko-1361245f) 🚀
