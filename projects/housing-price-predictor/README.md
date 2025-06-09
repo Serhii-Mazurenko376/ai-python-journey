@@ -43,7 +43,7 @@ To build a simple regression model that predicts housing prices based on factors
 
 ## 📸 Visual Examples
 
-![Predicted vs Actual Housing Prices](assets/predicted_vs_actual.jpeg)  
+![Predicted vs Actual Housing Prices](https://github.com/Serhii-Mazurenko376/ai-pithon-journey/blob/fe09c4ec716559eac4708dc8ab72c6884cd8739c/assets/predicted_vs_actual.jpeg)  
 *Predicted vs Actual Housing Prices*
 
 ![Feature Correlation Matrix](https://github.com/Serhii-Mazurenko376/ai-pithon-journey/blob/9069c774fe6153a4f31a6ca315a7a720a6bf008f/assets/correlation_matrix.jpeg)
