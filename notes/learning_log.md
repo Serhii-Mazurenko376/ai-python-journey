@@ -19,7 +19,7 @@ This file tracks what I’ve learned, tried, or struggled with.
 ✅ Learn about pandas DataFrames  
 ✅ Try loading a CSV file in Colab
 
-## 🗓️ June 9, 2025 – Completed My First ML Project
+## 🗓️ 2025-06-09 – Completed My First ML Project
 
 ### ✅ Project: Housing Price Predictor (Linear Regression)
 - Loaded and explored the **California Housing Dataset** from `sklearn.datasets`.
