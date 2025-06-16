@@ -42,23 +42,24 @@ ai-python-journey/
 ├── requirements.txt           # List of required packages
 ├── .gitignore
 └── README.md
+```
 
-🧰 Tools
-	•	Python 3.x
-	•	Google Colab / Jupyter Notebook
-	•	Git & GitHub
+## 🧰 Tools
+- Python 3.x
+- Google Colab / Jupyter Notebook
+- Git & GitHub
 
-⸻
+---
 
-👋 About Me
+## 👋 About Me
 
 Hi, I’m Serhii Mazurenko – a motivated self-learner, transitioning into the world of AI and data science.
 My goal is to become a capable AI engineer, one step at a time.
 
 Feel free to connect on LinkedIn www.linkedin.com/in/serhii-mazurenko-1361245f or share resources you think might help!
 
-⸻
+---
 
-🤝 Acknowledgments
+## 🤝 Acknowledgments
 
 Big thanks to ChatGPT for guidance, structure, and support along the way.
